@@ -1,0 +1,190 @@
+BEGIN:VCALENDAR
+PRODID:-//Mozilla.org/NONSGML Mozilla Calendar V1.1//EN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Europe/Brussels
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:Europe/Prague
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+CREATED:20220203T134145Z
+LAST-MODIFIED:20220203T134549Z
+DTSTAMP:20220203T134549Z
+UID:f04fdaa4-d60d-4019-ae5c-ad6b4380f99f
+SUMMARY:Ubuntu Unity Remix by Rudra Saraswat
+DTSTART;TZID=Europe/Brussels:20220205T120000
+DTEND;TZID=Europe/Brussels:20220205T123000
+TRANSP:OPAQUE
+LOCATION:Remote (Brussels time)
+DESCRIPTION;ALTREP="data:text/html,%3Cbody%3E%0A%3Cdiv%3ESpeaker%3A%20%3Cs
+ pan%20class%3D%22css-901oao%20css-16my406%20r-poiln3%20r-bcqeeo%20%0Ar-qvu
+ tc0%22%3E%3Cspan%20class%3D%22css-901oao%20css-16my406%20r-poiln3%20r-bcqe
+ eo%20%0Ar-qvutc0%22%3ERudra%20Saraswat%3C%2Fspan%3E%3C%2Fspan%3E%3Cbr%3E%0
+ AUbuntu%20Unity%20is%20a%20remix%20of%20Ubuntu%20featuring%20the%20Unity7%
+ 20desktop%20%0Aenvironment%20(the%20default%20desktop%20environment%20used
+ %20by%20Ubuntu%20from%20%0A2010-2017).%0A%20%20%20%20%20%20%20%20%3C%2Fdiv
+ %3E%0A%3C%2Fbody%3E":Speaker: Rudra Saraswat\nUbuntu Unity is a remix of U
+ buntu featuring the Unity7 desktop environment (the\ndefault desktop envir
+ onment used by Ubuntu from 2010-2017).\n
+X-MOZ-GENERATION:1
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220203T134551Z
+LAST-MODIFIED:20220203T134716Z
+DTSTAMP:20220203T134716Z
+UID:6e7d8951-1ffc-442d-b60b-2fe3bb44d02f
+SUMMARY:Gamebuntu by Rudra Saraswat
+DTSTART;TZID=Europe/Brussels:20220205T123000
+DTEND;TZID=Europe/Brussels:20220205T130000
+TRANSP:OPAQUE
+LOCATION:Remote (Brussels time)
+DESCRIPTION;ALTREP="data:text/html,%3Cbody%3ETransform%20an%20Ubuntu%20ins
+ tall%20into%20a%20complete%20game-ready%20(!)%20setup%0A%20%20%20%20%20%20
+ %20%20%3C%2Fbody%3E":Transform an Ubuntu install into a complete game-read
+ y (!) setup 
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220203T134728Z
+LAST-MODIFIED:20220203T134844Z
+DTSTAMP:20220203T134844Z
+UID:48e972b2-ce80-4738-99f7-89030c2685be
+SUMMARY:Contributing to Open Source Projects with Ubuntu\, Nextcloud\, and
+  Collabora by Pedro Silva and Marius Quabeck
+DTSTART;TZID=Europe/Brussels:20220205T130000
+DTEND;TZID=Europe/Brussels:20220205T140000
+TRANSP:OPAQUE
+LOCATION:Remote (Brussels time)
+DESCRIPTION;ALTREP="data:text/html,%3Cbody%3E%0A%3Cp%20class%3D%22card-tex
+ t%22%3E%0A%20%20%20%20%20%20%20%20%20%20Are%20you%20interested%20in%20cont
+ ributing%20but%20don%E2%80%99t%20know%20where%20to%20%0Astart%3F%20Tag%20a
+ long%20and%20be%20part%20of%20the%20digital%20sovereign%20revolution!%20%0
+ AEveryone%20is%20welcome%20to%20join.%0A%20%20%20%20%20%20%20%20%3C%2Fp%3E
+ %0A%3C%2Fbody%3E":Are you interested in contributing but don’t know wher
+ e to start? Tag along and\nbe part of the digital sovereign revolution! Ev
+ eryone is welcome to join.\n
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220203T134856Z
+LAST-MODIFIED:20220203T135023Z
+DTSTAMP:20220203T135023Z
+UID:3fa5cbb7-d1e0-4e7d-83ee-33a111e80b8a
+SUMMARY:Ubuntu Cinnamon Remix by Joshua Peisach
+DTSTART;TZID=Europe/Brussels:20220205T150000
+DTEND;TZID=Europe/Brussels:20220205T153000
+TRANSP:OPAQUE
+LOCATION:Remote (Brussels time)
+DESCRIPTION;ALTREP="data:text/html,%3Cbody%3ECommunity-driven%2C%20featuri
+ ng%20Linux%20Mint%E2%80%99s%20Cinnamon%20Desktop%20with%20%0AUbuntu%20at%0
+ A%20the%20core%2C%20packed%20fast%20and%20full%20of%20features%2C%20here%2
+ 0is%20the%20most%20%0Atraditionally%20modern%20desktop%20you%20will%20ever
+ %20love.%0A%3C%2Fbody%3E":Community-driven\, featuring Linux Mint’s Cinn
+ amon Desktop with Ubuntu at the\ncore\, packed fast and full of features\,
+  here is the most traditionally modern\ndesktop you will ever love. 
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220203T135048Z
+LAST-MODIFIED:20220203T135133Z
+DTSTAMP:20220203T135133Z
+UID:5f4f1f63-632e-4f61-a014-ed4c42119f02
+SUMMARY:Downstream Distro Panel by Regolith/Elementary/Pop!_OS 
+DTSTART;TZID=Europe/Brussels:20220205T180000
+DTEND;TZID=Europe/Brussels:20220205T190000
+TRANSP:OPAQUE
+LOCATION:Remote (Brussels time)
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220203T135153Z
+LAST-MODIFIED:20220203T135257Z
+DTSTAMP:20220203T135257Z
+UID:8715b5ac-1a04-4087-a133-19803134fb61
+SUMMARY:Setting up a Nextcloud Instance with Collabora on Ubuntu by Willia
+ m Gathoye
+DTSTART;TZID=Europe/Brussels:20220206T140000
+DTEND;TZID=Europe/Brussels:20220206T150000
+TRANSP:OPAQUE
+LOCATION:Remote (Brussels time)
+DESCRIPTION;ALTREP="data:text/html,%3Cbody%3EKeeping%20full%20control%20ov
+ er%20your%20personal%20data%20and%20documents%2C%20is%20%0Amore%20and%20%0
+ Amore%20important.%20Learn%20how%20to%20create%20your%20own%20personal%20c
+ loud%20with%20this%20%0Aeasy%20built-in%20installation.%0A%20%20%20%20%20%
+ 20%20%20%3C%2Fbody%3E":Keeping full control over your personal data and do
+ cuments\, is more and more\nimportant. Learn how to create your own person
+ al cloud with this easy built-in\ninstallation. 
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220203T135301Z
+LAST-MODIFIED:20220203T135335Z
+DTSTAMP:20220203T135335Z
+UID:298ce8af-eccf-4f0e-a004-79f4e1c77a6f
+SUMMARY:Flutter Development Video and Q&A
+DTSTART;TZID=Europe/Brussels:20220206T150000
+DTEND;TZID=Europe/Brussels:20220206T160000
+TRANSP:OPAQUE
+LOCATION:Remote (Brussels time)
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220203T135342Z
+LAST-MODIFIED:20220203T135744Z
+DTSTAMP:20220203T135744Z
+UID:2b9ef74b-510c-4c72-b7ea-c2576b83dac9
+SUMMARY:The Ubuntu community structure and how to contribute by Torsten Fr
+ anz
+DTSTART;TZID=Europe/Prague:20220206T160000
+DTEND;TZID=Europe/Prague:20220206T163000
+TRANSP:OPAQUE
+LOCATION:Remote (Brussels time)
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220203T135758Z
+LAST-MODIFIED:20220203T135850Z
+DTSTAMP:20220203T135850Z
+UID:ea7fb25c-b865-4cae-b789-95dc8f31fc45
+SUMMARY:Getting Started with Ubuntu Frame
+DTSTART;TZID=Europe/Brussels:20220206T164500
+DTEND;TZID=Europe/Brussels:20220206T171500
+TRANSP:OPAQUE
+LOCATION:Remote (Brussels time)
+DESCRIPTION;ALTREP="data:text/html,%3Cbody%3EVideo%20session%0A%20%20%20%2
+ 0%20%20%20%20%3C%2Fbody%3E":Video session 
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220203T135935Z
+LAST-MODIFIED:20220203T140000Z
+DTSTAMP:20220203T140000Z
+UID:5cb4f099-4043-45b0-97f6-56cd37c93b2a
+SUMMARY:Mir Team/Ubuntu Frame live Q&A
+DTSTART;TZID=Europe/Brussels:20220206T173000
+DTEND;TZID=Europe/Brussels:20220206T183000
+TRANSP:OPAQUE
+LOCATION:Remote (Brussels time)
+END:VEVENT
+END:VCALENDAR
